@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Hoodie_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 2b71dfb87018e074f9d0d6fc973425ab, type: 3}
+  m_ShaderKeywords: HARD_SHADING_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_3F8B01D3:
+        m_Texture: {fileID: 2800000, guid: 49b826bffc62c6144904c9014ebe8832, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_804B5218:
+        m_Texture: {fileID: 2800000, guid: 4056dcad08f325a4b8955b6aaea93971, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: c45967d6dc54bb342993e4b0dc59fd99, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - HARD_SHADING: 1
+    - Vector1_7F85451D: 1
+    - Vector1_DDCBB863: 1
+    - _BacklightAmount: 2.3
+    - _Smoothness: 0.4
+    m_Colors:
+    - _TextureTiling: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
